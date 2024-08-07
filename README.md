@@ -35,12 +35,6 @@ I'm a Data Science and Marketing Analytics Student.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23E54343.svg?style=for-the-badge&logo=XGB&logoColor=black)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NumericCamel&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NumericCamel&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NumericCamel&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NumericCamel&icon=8&color=0)](https://visitcount.itsvg.in)
 
