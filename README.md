@@ -3,9 +3,9 @@ I'm a Data Science and Marketing Analytics Student.
 
 ### Check out my Repos:
 
-[![Master Thesis](https://img.shields.io/badge/Master_Thesis-Informative-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis basically. A study on predicting price movements of crypto currencies
-[![Portfolio](https://img.shields.io/badge/Portfolio-Informative-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio, well kinda. A lot of smaller Python related projects are in there!
-[![Crypto Repo](https://img.shields.io/badge/Crypto_Repo-Informative-orange.svg)](https://github.com/NumericCamel/Crypto) - My Crypto Repo. Anything crypto data research related. 
+- [![Master Thesis](https://img.shields.io/badge/Master_Thesis-Informative-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis basically. A study on predicting price movements of crypto currencies
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Informative-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio, well kinda. A lot of smaller Python related projects are in there!
+- [![Crypto Repo](https://img.shields.io/badge/Crypto_Repo-Informative-orange.svg)](https://github.com/NumericCamel/Crypto) - My Crypto Repo. Anything crypto data research related. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erenmuller) 
