@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Data Science and Marketing Analytics Student. 
 
-### Check out my hihglighted Repos:
+### Check out my highlighted Repos:
 
 - [![Master Thesis](https://img.shields.io/badge/Master_Thesis-In_Progress-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis basically. A study on predicting price movements of crypto currencies
 - [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio, well kinda. A lot of smaller Python related projects are in there!
