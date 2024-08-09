@@ -10,6 +10,12 @@ As a highly analytical and results-driven Data Science and Marketing Analytics g
 
 My core competence revolves around my exceptional abstract comprehension skills, which allow me to synthesize and interpret various types of data with precision and clarity. This unique ability enables me to bridge the gap between raw data and business strategy, ensuring that data-driven insights are both practical and aligned with organizational goals. I have a proven track record of leveraging these skills in diverse projects, where I have not only contributed to the successful execution of data-driven initiatives but have also led cross-functional teams to deliver impactful results.
 
+### Check out my highlighted Repos:
+
+- [![Master Thesis](https://img.shields.io/badge/Master_Thesis-In_Progress-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis. A study on predicting price movements of crypto currencies
+- [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio. A lot of smaller Python related projects are in there!
+- [![Crypto Repo](https://img.shields.io/badge/Crypto_Repo-Explore-orange.svg)](https://github.com/NumericCamel/Crypto) - My Crypto Repo. Anything crypto data research related. 
+
 ### Skills Overview
 
 #### Machine Learning
@@ -43,11 +49,7 @@ My core competence revolves around my exceptional abstract comprehension skills,
 - Exploratory Data Analysis (EDA)
 - Data visualization
 
-### Check out my highlighted Repos:
 
-- [![Master Thesis](https://img.shields.io/badge/Master_Thesis-In_Progress-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis. A study on predicting price movements of crypto currencies
-- [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio. A lot of smaller Python related projects are in there!
-- [![Crypto Repo](https://img.shields.io/badge/Crypto_Repo-Explore-orange.svg)](https://github.com/NumericCamel/Crypto) - My Crypto Repo. Anything crypto data research related. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erenmuller) 
