@@ -1,10 +1,50 @@
 # 💫 About Me:
-I'm a Data Science and Marketing Analytics Student. 
+**Data Science & Marketing Analytics Master's Graduate**
+**Bachelors in Economics and Business Economics**
+**Product Management | Data Analytics | Machine Learning**
+
+### Professional Summary
+As a highly analytical and results-driven Data Science and Marketing Analytics graduate, I bring a robust background in Economics and Business Economics, coupled with a deep understanding of data analytics and product management. My expertise lies in the development, deployment, and optimization of machine learning algorithms, aimed at driving strategic decision-making and unlocking value from complex data sets. I possess advanced proficiency in building and visualizing dashboards using industry-leading tools such as Tableau and PowerBI, enabling stakeholders to gain actionable insights and track performance metrics effectively.
+
+My core competence revolves around my exceptional abstract comprehension skills, which allow me to synthesize and interpret various types of data with precision and clarity. This unique ability enables me to bridge the gap between raw data and business strategy, ensuring that data-driven insights are both practical and aligned with organizational goals. I have a proven track record of leveraging these skills in diverse projects, where I have not only contributed to the successful execution of data-driven initiatives but have also led cross-functional teams to deliver impactful results.
+
+### Skills Overview
+
+#### Machine Learning
+- Support Vector Machines (SVM)
+- Random Forests (RF)
+- Linear Regression
+- Logistic Regression
+- XGBoost
+- Gradient Boosting
+
+#### Deep Learning
+- Long Short-Term Memory (LSTM) networks
+  - Specialization in time series forecasting
+- Artificial Neural Networks (ANN)
+- Recurrent Neural Networks (RNN)
+- Applications in both regression and classification tasks
+
+#### Statistical Analysis
+- Hypothesis Testing
+  - Chi-square tests
+  - T-tests
+  - A/B testing
+- Coefficient Interpretation
+  - Linear regression
+  - Logistic regression
+
+#### Additional Expertise
+- Feature engineering
+- Model evaluation and validation
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualization
 
 ### Check out my highlighted Repos:
 
-- [![Master Thesis](https://img.shields.io/badge/Master_Thesis-In_Progress-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis basically. A study on predicting price movements of crypto currencies
-- [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio, well kinda. A lot of smaller Python related projects are in there!
+- [![Master Thesis](https://img.shields.io/badge/Master_Thesis-In_Progress-blue.svg)](https://github.com/NumericCamel/Master-Thesis) - This is my masters thesis. A study on predicting price movements of crypto currencies
+- [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen.svg)](https://github.com/NumericCamel/Portfolio) - This is my Portfolio. A lot of smaller Python related projects are in there!
 - [![Crypto Repo](https://img.shields.io/badge/Crypto_Repo-Explore-orange.svg)](https://github.com/NumericCamel/Crypto) - My Crypto Repo. Anything crypto data research related. 
 
 ## 🌐 Socials:
