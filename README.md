@@ -1,6 +1,8 @@
 # 💫 About Me:
 **Data Science & Marketing Analytics Master's Graduate**
+
 **Bachelors in Economics and Business Economics**
+
 **Product Management | Data Analytics | Machine Learning**
 
 ### Professional Summary
